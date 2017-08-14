@@ -8,5 +8,8 @@
             "email": "achilleas90gr@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {"AchillesKal\\UrlExtractor": "src/"}
+    }
 }
