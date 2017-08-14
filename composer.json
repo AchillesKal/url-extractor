@@ -1,0 +1,12 @@
+{
+    "name": "achilleskal/url-extractor",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Achilles Kaloeridis",
+            "email": "achilleas90gr@gmail.com"
+        }
+    ],
+    "require": {}
+}
