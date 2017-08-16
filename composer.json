@@ -16,5 +16,10 @@
     },
     "autoload": {
         "psr-4": {"AchillesKal\\UrlExtractor\\": "src/"}
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "AchillesKal\\UrlExtractor\\": "tests/"
+        }
     }
 }
