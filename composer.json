@@ -5,7 +5,9 @@
     "authors": [
         {
             "name": "Achilles Kaloeridis",
-            "email": "achilleas90gr@gmail.com"
+            "email": "achilleas90gr@gmail.com",
+            "homepage": "https://achilleskal.com",
+            "role": "Developer"
         }
     ],
     "require": {
