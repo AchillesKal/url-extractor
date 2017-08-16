@@ -2,7 +2,7 @@
 
 namespace AchillesKal\UrlExtractor;
 
-class UrlExtractor
+class UrlExtractorTest
 {
     public function __construct()
     {
