@@ -1,11 +1,15 @@
 <?php
 
-namespace AchillesKal\UrlExtractor;
+namespace AchillesKal\UrlExtractorTests;
 
-class UrlExtractorTest
+use PHPUnit\Framework\TestCase;
+
+class UrlExtractorTest extends TestCase
 {
-    public function __construct()
+    public function testPushAndPop()
     {
-        echo "UrlExtractor initialized";
+
+        $this->assertEquals(0, 0);
+        $this->assertEquals(2, 2);
     }
 }
